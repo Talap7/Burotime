@@ -1,0 +1,28 @@
+.wrapper{
+    padding: 2% 0;
+    border: 1px solid #0000;
+}
+.content_block{
+    display: flex;
+    justify-content: space-between;
+}
+.list_wrapper{
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+}
+.list__item{
+    font-family: 'DIN Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+.search_input{
+    border: 0.3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 16px;
+    height: 30px;
+}
